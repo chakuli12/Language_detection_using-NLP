@@ -3,7 +3,9 @@
 Creating a language detection project using Natural Language Processing (NLP) involves using algorithms to identify the language of a given text based on its features. You can build a language detection system in Python, for example, using popular libraries like langdetect, langid, or custom models built with machine learning techniques.      
 
 What is Language Detection.
+
 Language detection is the process of identifying the language of a given text.
+
 It’s essential for many applications in natural language processing (NLP), machine learning, and AI systems.
 
 Why Is Language Detection Important?
